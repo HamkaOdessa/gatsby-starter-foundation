@@ -1,11 +1,13 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Alina Babenko
+tagline: Full Stack Developer & Graphic Designer
+featuredImage: /assets/1.jpg
 cta:
-  ctaText: Know more
-  ctaLink: /about
+  ctaText: View CV
+  ctaLink: /cv
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Hello! I'm a versatile web soldier. 
+
+I develop turnkey websites from design to SEO optimization. Also, sometimes I perform separate tasks for other studios. I can understand someone else's code, but I love semantic code. 
